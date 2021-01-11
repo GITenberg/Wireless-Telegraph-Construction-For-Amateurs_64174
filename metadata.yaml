@@ -1,0 +1,27 @@
+_repo: Wireless-Telegraph-Construction-For-Amateurs_64174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, Alfred Powell
+    aliases:
+    - Morgan, A. P. (Alfred Powell)
+    - Powell, A. M.
+    - Morgan, Alfred P. (Alfred Powell)
+    birthdate: 1889
+    deathdate: 1972
+    gutenberg_agent_id: '52269'
+    url: http://www.gutenberg.org/2009/agents/52269
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Powell_Morgan
+description: ''
+gutenberg_issued: '2020-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wireless Telegraph Construction For Amateurs
+url: http://www.gutenberg.org/ebooks/64174
